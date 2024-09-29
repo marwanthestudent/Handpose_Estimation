@@ -1,4 +1,4 @@
-# Handpose_Estimation# 3D Hand Pose Recognition and Nearest-Neighbor Matching
+# Handpose_Estimation
 
 This project implements a **3D hand pose recognition** system using a dataset of hand joint coordinates. It includes visualizations of hand keypoints in 3D space and a nearest-neighbor matching algorithm to identify similar hand poses based on normalized keypoints.
 
